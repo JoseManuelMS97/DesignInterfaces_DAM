@@ -1,0 +1,13 @@
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\bin\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.exe
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\bin\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.deps.json
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\bin\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.runtimeconfig.json
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\bin\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.runtimeconfig.dev.json
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\bin\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.dll
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\bin\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.pdb
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\obj\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.csprojAssemblyReference.cache
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\obj\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.AssemblyInfoInputs.cache
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\obj\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.AssemblyInfo.cs
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\obj\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.csproj.CoreCompileInputs.cache
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\obj\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.dll
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\obj\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.pdb
+G:\VisualStudio\Workspace\Ejercicio2_ArchivoTexto\Ejercicio2_ArchivoTexto\obj\Debug\netcoreapp3.1\Ejercicio2_ArchivoTexto.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+Alumno Jose - Modulo:  sge - Nota: 9
+Alumno Jose - Modulo:  procesos - Nota: 10
+Alumno Maria - Modulo:  sge - Nota: 5

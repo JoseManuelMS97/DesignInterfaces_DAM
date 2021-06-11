@@ -1,0 +1,13 @@
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\bin\Debug\netcoreapp3.1\EjercicioRepaso.exe
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\bin\Debug\netcoreapp3.1\EjercicioRepaso.deps.json
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\bin\Debug\netcoreapp3.1\EjercicioRepaso.runtimeconfig.json
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\bin\Debug\netcoreapp3.1\EjercicioRepaso.runtimeconfig.dev.json
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\bin\Debug\netcoreapp3.1\EjercicioRepaso.dll
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\bin\Debug\netcoreapp3.1\EjercicioRepaso.pdb
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\obj\Debug\netcoreapp3.1\EjercicioRepaso.csprojAssemblyReference.cache
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\obj\Debug\netcoreapp3.1\EjercicioRepaso.AssemblyInfoInputs.cache
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\obj\Debug\netcoreapp3.1\EjercicioRepaso.AssemblyInfo.cs
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\obj\Debug\netcoreapp3.1\EjercicioRepaso.csproj.CoreCompileInputs.cache
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\obj\Debug\netcoreapp3.1\EjercicioRepaso.dll
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\obj\Debug\netcoreapp3.1\EjercicioRepaso.pdb
+G:\VisualStudio\Workspace\EjercicioRepaso\EjercicioRepaso\obj\Debug\netcoreapp3.1\EjercicioRepaso.genruntimeconfig.cache
