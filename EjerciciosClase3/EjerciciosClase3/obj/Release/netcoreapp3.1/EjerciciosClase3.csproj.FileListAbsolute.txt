@@ -1,0 +1,13 @@
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\bin\Release\netcoreapp3.1\EjerciciosClase3.exe
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\bin\Release\netcoreapp3.1\EjerciciosClase3.deps.json
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\bin\Release\netcoreapp3.1\EjerciciosClase3.runtimeconfig.json
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\bin\Release\netcoreapp3.1\EjerciciosClase3.runtimeconfig.dev.json
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\bin\Release\netcoreapp3.1\EjerciciosClase3.dll
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\bin\Release\netcoreapp3.1\EjerciciosClase3.pdb
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\obj\Release\netcoreapp3.1\EjerciciosClase3.csprojAssemblyReference.cache
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\obj\Release\netcoreapp3.1\EjerciciosClase3.AssemblyInfoInputs.cache
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\obj\Release\netcoreapp3.1\EjerciciosClase3.AssemblyInfo.cs
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\obj\Release\netcoreapp3.1\EjerciciosClase3.csproj.CoreCompileInputs.cache
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\obj\Release\netcoreapp3.1\EjerciciosClase3.dll
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\obj\Release\netcoreapp3.1\EjerciciosClase3.pdb
+G:\VisualStudio\Workspace\EjerciciosClase3\EjerciciosClase3\obj\Release\netcoreapp3.1\EjerciciosClase3.genruntimeconfig.cache
