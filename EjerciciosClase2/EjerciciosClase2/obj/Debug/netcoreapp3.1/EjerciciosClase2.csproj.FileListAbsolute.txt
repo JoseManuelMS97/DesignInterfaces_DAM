@@ -1,0 +1,13 @@
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\bin\Debug\netcoreapp3.1\EjerciciosClase2.exe
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\bin\Debug\netcoreapp3.1\EjerciciosClase2.deps.json
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\bin\Debug\netcoreapp3.1\EjerciciosClase2.runtimeconfig.json
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\bin\Debug\netcoreapp3.1\EjerciciosClase2.runtimeconfig.dev.json
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\bin\Debug\netcoreapp3.1\EjerciciosClase2.dll
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\bin\Debug\netcoreapp3.1\EjerciciosClase2.pdb
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\obj\Debug\netcoreapp3.1\EjerciciosClase2.csprojAssemblyReference.cache
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\obj\Debug\netcoreapp3.1\EjerciciosClase2.AssemblyInfoInputs.cache
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\obj\Debug\netcoreapp3.1\EjerciciosClase2.AssemblyInfo.cs
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\obj\Debug\netcoreapp3.1\EjerciciosClase2.csproj.CoreCompileInputs.cache
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\obj\Debug\netcoreapp3.1\EjerciciosClase2.dll
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\obj\Debug\netcoreapp3.1\EjerciciosClase2.pdb
+G:\VisualStudio\Workspace\EjerciciosClase2\EjerciciosClase2\obj\Debug\netcoreapp3.1\EjerciciosClase2.genruntimeconfig.cache
